@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Spinner from '../layout/Spinner';
 
 export class User extends Component {
   componentDidMount() {
